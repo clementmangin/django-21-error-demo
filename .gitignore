@@ -1,0 +1,4 @@
+.idea/
+.tox/
+db.sqlite3
+*.pyc
